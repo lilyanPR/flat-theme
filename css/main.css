@@ -1,0 +1,95 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/* inicio 1 */
+
+a{
+	text-decoration: none;
+	color: #EDF5F3;
+}
+
+.navbar{
+	background-color: #313D3B;
+}
+
+.navbar-brand{
+	padding-left: 50px;
+	color: #EDF5F3;
+	font-size: 25px;
+}
+
+.collapse{
+	color: #EDF5F3;
+	font-size: 15px;
+}
+
+/* caja 2 */
+
+.banner{
+	background-image: url(../images/slider/bg1.jpg);
+	background-position: 100%;
+	background-repeat: no-repeat;
+
+
+}
+
+.title-page{
+	margin-top: 100%;
+	padding: 100%;
+	max-width: 100%;
+	
+}
+
+
+/* caja 3 */
+
+.link{
+	background-color: #31F562;
+	padding: 50%;
+	
+
+}
+
+
+
+
+
+
+/* footer*/
+footer{
+	background-color:#4D7591;
+	color: #EDF5F3;
+	color: #EDF5F3;
+	width: 100%;
+	height: 80px; 
+	padding-left:5%;
+	padding-top: 2%;
+}
+
+.nav{
+	padding-top: -100px;
+		
+}
+
+
+
+
+
+
+
+
+
